@@ -11,7 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DigitalCareerInstitute/Node-PassArguments",
+    "url": "git+https://github.com/DigitalCareerInstitute/Node-PassArguments.git",
     "id": 200819078
-  }
+  },
+  "name": "passarguments-opheliaxx",
+  "description": "⭐ Make stars appear in your terminal! ⭐",
+  "bugs": {
+    "url": "https://github.com/DigitalCareerInstitute/Node-PassArguments/issues"
+  },
+  "homepage": "https://github.com/DigitalCareerInstitute/Node-PassArguments#readme",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
